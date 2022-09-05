@@ -1,4 +1,4 @@
-A collection of Math quizzes for 6-9th graders.
+A collection of Math quizzes on 6-9th grade topics.
 
 Topics include:
 1) algebra
