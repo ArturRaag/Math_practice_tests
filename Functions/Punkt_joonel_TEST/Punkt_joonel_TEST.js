@@ -66,7 +66,7 @@ function Ylesanne(n){
   } else {
     vabaliige_C_str=str(vabaliige_C)
   }
-  võrrand=ruutliige_A*X*X+lineaarliige_B*X+vabaliige_C;
+  võrrand=round_2(ruutliige_A*X*X+lineaarliige_B*X+vabaliige_C);
   LaTeX_str="y="+ruutliige_A_str+"x^{2}"+lineaarliige_B_str+"x"+vabaliige_C_str;
   }
   
